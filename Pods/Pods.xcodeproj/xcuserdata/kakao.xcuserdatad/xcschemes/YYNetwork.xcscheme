@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '7CBFE796B0B9EE4BBFEECB44D41C9D5D'
-               BlueprintName = 'Pods-SingDemo'
+               BlueprintIdentifier = 'C4B06CA3B952A0A333344BD83854BA8C'
+               BlueprintName = 'YYNetwork'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libPods-SingDemo.a'>
+               BuildableName = 'libYYNetwork.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
