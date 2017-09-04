@@ -15,19 +15,43 @@ PODS:
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
   - CocoaSecurity (1.2.4)
+  - M80AttributedLabel (1.6.3)
+  - NIMKit (1.8.1):
+    - NIMKit/Lite (= 1.8.1)
+  - NIMKit/Core (1.8.1):
+    - M80AttributedLabel (~> 1.6.3)
+    - SDWebImage (~> 4.0.0)
+    - Toast (~> 3.0)
+    - TZImagePickerController (~> 1.7.7)
+  - NIMKit/Lite (1.8.1):
+    - NIMKit/Core
+    - NIMSDK_LITE (~> 4.1.0)
+  - NIMSDK_LITE (4.1.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - Toast (3.1.0)
+  - TZImagePickerController (1.7.9)
   - YYNetwork (0.1.0):
     - AFNetworking (~> 3.1)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.1.0)
   - CocoaSecurity (~> 1.2.4)
+  - NIMKit
   - YYNetwork (~> 0.1.0)
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   CocoaSecurity: d288a6f87e0f363823d2cb83e753814a6944f71a
+  M80AttributedLabel: d06543195d3e451d2ea62ad76d04aa9cea7661d4
+  NIMKit: 40bfacb45d790a9b97c51bf17013149f38dec095
+  NIMSDK_LITE: e182c79e958bfdd58821fcfb380fc58088242ec4
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  TZImagePickerController: 0a8ff228d287ebdd7d485e8c42a2a932894f1fba
   YYNetwork: 8726d8db166badc537ddb85244af200304e1ecc1
 
-PODFILE CHECKSUM: 5b7a22422d3e408da65eeaa997e6dd12f99ea677
+PODFILE CHECKSUM: 1e6a5d9f3ecc482726c79746730f182a1e085c70
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.3.1

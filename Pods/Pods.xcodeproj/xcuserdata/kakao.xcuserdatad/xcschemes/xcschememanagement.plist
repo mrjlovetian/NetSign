@@ -14,7 +14,32 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>M80AttributedLabel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>NIMKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-SingDemo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>TZImagePickerController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Toast.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -27,7 +52,27 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>7CBFE796B0B9EE4BBFEECB44D41C9D5D</key>
+		<key>1DD316E5DDF79C7F2D5E1962E6117F4D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4EFF61E0D23F29851213EE4B214115C2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>50EB1D1CFDEA2677635A8C7E7F850BAA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>854493676608392C4635761374D8A983</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9C64ED7E2ED41F2FF8D272C7D5E01D60</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -37,12 +82,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C4B06CA3B952A0A333344BD83854BA8C</key>
+		<key>CA6B4A213A427ACCD51F2AFF6C094C98</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CA6B4A213A427ACCD51F2AFF6C094C98</key>
+		<key>EA589BD08D42125975EC6F29B681D055</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ED6FF8A0AB036071FB40F3CF3B3EC4C4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

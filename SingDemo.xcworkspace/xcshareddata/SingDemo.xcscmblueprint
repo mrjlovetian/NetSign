@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "654F4C1B3B7BDC59EA0C0E9F8F8775729B61FE95",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7BC0F174BE164CDD2F5E4C1A9AB68C7A6268779A" : 9223372036854775807,
+    "654F4C1B3B7BDC59EA0C0E9F8F8775729B61FE95" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "404D6B3E-AB13-4C42-885C-16DC4ECC2D77",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7BC0F174BE164CDD2F5E4C1A9AB68C7A6268779A" : "SingDemo\/TopsTechIM_OC\/",
+    "654F4C1B3B7BDC59EA0C0E9F8F8775729B61FE95" : "SingDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SingDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SingDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrjlovetian\/NetSign.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "654F4C1B3B7BDC59EA0C0E9F8F8775729B61FE95"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "codehub.tops001.com:app-ios\/TopsTechIM_OC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7BC0F174BE164CDD2F5E4C1A9AB68C7A6268779A"
+    }
+  ]
+}
